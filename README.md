@@ -17,4 +17,4 @@ This repository contains a Jupyter Notebook for preprocessing the Telco Customer
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/telco-churn-preprocessing.git
+   git clone https://github.com/saifeldeenamr10/Customer-Churn-Prediction-and-Analysis.git
