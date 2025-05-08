@@ -5,20 +5,17 @@
 ```
 docs/
 ├── architecture/           # System architecture and design
-├── api/                   # API documentation
+├── images/                   # images
 ├── models/               # Model documentation
 ├── tutorials/            # User guides and tutorials
-├── reports/              # Project reports and analysis
 └── visualizations/       # Data and model visualizations
 ```
 
 ## 📋 Quick Links
 
 - [System Architecture](architecture/README.md)
-- [API Documentation](api/README.md)
 - [Model Documentation](models/README.md)
 - [User Tutorials](tutorials/README.md)
-- [Project Reports](reports/README.md)
 - [Visualizations](visualizations/README.md)
 
 ## 🔍 Documentation Overview
