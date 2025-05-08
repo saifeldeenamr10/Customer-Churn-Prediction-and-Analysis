@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Qebaa/OneDrive/Desktop/Graduation/milestone4/milestone4/monitoring_output/mlruns/518106679606023891/5b98b3ac34d4468abbb0b358a3874684/artifacts
+end_time: 1746571313651
+entry_point_name: ''
+experiment_id: '518106679606023891'
+lifecycle_stage: active
+run_id: 5b98b3ac34d4468abbb0b358a3874684
+run_name: model_monitoring_20250507_014152
+run_uuid: 5b98b3ac34d4468abbb0b358a3874684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746571313053
+status: 3
+tags: []
+user_id: Qebaa

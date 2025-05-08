@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/517c4bcd736d4c7f9babf76042657370/artifacts
+end_time: 1746570782060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 517c4bcd736d4c7f9babf76042657370
+run_name: retraining_20250507_013259
+run_uuid: 517c4bcd736d4c7f9babf76042657370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746570779678
+status: 3
+tags: []
+user_id: Qebaa
