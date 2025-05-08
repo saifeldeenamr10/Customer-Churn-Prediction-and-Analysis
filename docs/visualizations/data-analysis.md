@@ -31,64 +31,59 @@ _Figure 5: Distribution of account balances for churned vs retained customers, r
 
 ### 5. Service Usage Patterns
 
-![Monthly Usage Trends](images/monthly_usage.png)
+![Monthly Usage Trends](../../milestone1/images/monthly_usage.png)
 _Figure 6: Monthly service usage trends showing peak usage during business hours_
 
-![Service Type Distribution](images/service_types.png)
+![Service Type Distribution](../../milestone1/images/service_types.png)
 _Figure 7: Distribution of service types with premium services being most popular_
 
 ## 📊 Feature Importance
 
 ### 1. Model Feature Importance
 
-![Feature Importance Plot](images/feature_importance.png)
-_Figure 8: Feature importance scores showing Tenure and BalanceToSalary as top predictors_
+![Feature Importance Plot](../../milestone1/images/feature_importance.png)
+_Figure 8: Feature importance scores showing Tenure and Balance as top predictors_
 
 ### 2. Feature Distributions
 
-![Feature Distributions by Churn Status](images/feature_distributions.png)
+![Feature Distributions by Churn Status](../../milestone1/images/feature_distributions.png)
 _Figure 9: Box plots showing feature distributions for churned vs non-churned customers_
 
 ## 📈 Time Series Analysis
 
 ### 1. Churn Trends
 
-![Monthly Churn Rate](images/monthly_churn.png)
+![Monthly Churn Rate](../../milestone1/images/monthly_churn.png)
 _Figure 10: Monthly churn rate trends showing seasonal patterns_
 
 ### 2. Customer Lifetime
 
-![Customer Lifetime Distribution](images/customer_lifetime.png)
+![Customer Lifetime Distribution](../../milestone1/images/customer_lifetime.png)
 _Figure 11: Distribution of customer lifetime showing most customers stay for 12-24 months_
 
 ## 📊 Model Performance
 
 ### 1. ROC Curve
 
-![ROC Curve](images/roc_curve.png)
-_Figure 12: ROC curve showing model performance with AUC of 0.88_
+![ROC Curve](../../milestone1/images/roc_curve.png)
+_Figure 12: ROC curve showing model performance with AUC score_
 
 ### 2. Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](../../milestone1/images/confusion_matrix.png)
 _Figure 13: Confusion matrix showing model prediction accuracy_
 
 ## 📈 Interactive Dashboards
 
 ### 1. Customer Overview Dashboard
 
-![Customer Overview Dashboard](images/customer_dashboard.png)
+![Customer Overview Dashboard](../../milestone1/images/customer_dashboard.png)
 _Figure 14: Interactive dashboard showing customer demographics and behavior patterns_
 
 ### 2. Model Performance Dashboard
 
-![Model Performance Dashboard](images/model_dashboard.png)
+![Model Performance Dashboard](../../milestone1/images/model_dashboard.png)
 _Figure 15: Real-time monitoring dashboard for model performance metrics_
-
-### 3. Business Insights Dashboard
-
-![Business Insights Dashboard](images/business_dashboard.png)
-_Figure 16: Dashboard showing churn trends and customer segments_
 
 ## 🔧 Implementation Notes
 
