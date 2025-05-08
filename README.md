@@ -2,7 +2,7 @@
 
 ## 📋 Project Overview
 
-This project implements a comprehensive machine learning pipeline for [Your Specific Problem Domain]. The solution is structured into four distinct milestones, following industry best practices for ML model development, deployment, and monitoring.
+This project implements a comprehensive machine learning pipeline for [Customer-churn]. The solution is structured into four distinct milestones, following industry best practices for ML model development, deployment, and monitoring.
 
 ### 🎯 Key Features
 
