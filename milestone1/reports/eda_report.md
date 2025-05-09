@@ -11,7 +11,7 @@
 
 ## 1. Data Overview
 
-- Dataset dimensions: **5,000 rows × 12 columns**
+- Dataset dimensions: **10,000 rows × 12 columns**
 - Features:
   - `age`: Age of the individual (int)
   - `gender`: Gender (categorical: Male/Female)
